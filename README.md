@@ -1,4 +1,7 @@
-Olá 👋 Meu nome é Gustavo Silva Brandão ==================================== sou um desenvolvedor e designer web ----------------------------------- estou aprendendo a utilizar códigos de programação a 1 ano e estou aprendendo sobre suas linguagens, também controlado a mexer no banco de dados e também a mexer com aparelhos tecnológicos, recentemente montei com meu grupo de trabalho um projeto para prevenir enchentes em regiões com risco de alagamento, esse projeto foi testado em 15/07/2023, e utilizamos o aparelho (arduino) ) junto com sensor ultrassônico, certamente. * 🌍 Estou baseado em f
+Olá 👋 Meu nome é Gustavo Silva Brandão 
+sou um desenvolvedor e designer web 
+estou aprendendo a utilizar códigos de programação a 1 ano e estou aprendendo sobre suas linguagens, também controlado a mexer no banco de dados e também a mexer com aparelhos tecnológicos, recentemente montei com meu grupo de trabalho um projeto para prevenir enchentes em regiões com risco de alagamento, esse projeto foi testado em 15/07/2023, e utilizamos o aparelho (arduino) ) junto com sensor ultrassônico, certamente. * 
+🌍 Estou baseado em focar bastante na programação e banco de dados
 
 ### Habilidades
 
