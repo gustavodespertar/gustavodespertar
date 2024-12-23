@@ -1,6 +1,6 @@
 Olá 👋 Meu nome é Gustavo Silva Brandão 
-sou um desenvolvedor e designer web 
-em 05/07/2024 participei com minha equipe em um hackathon na despertar para testar nossos conhecimentos e minha equipe ficou em 2
+sou um desenvolvedor e designer web.
+Em 05/07/2024 participei com minha equipe em um hackathon na despertar para testar nossos conhecimentos, minha equipe ficou em 2
 Estou aprendendo a utilizar códigos de programação a 2 anos e estou aprendendo sobre suas linguagens, também sei mexer no banco de dados e aparelhos tecnológicos, em 15/07/2023 criei com meu grupo um aparelho para prevenir enchentes em regiões com risco de alagamento, esse projeto foi testado e foi um tremendo sucesso, * 
 🌍 Estou baseado em focar bastante na programação e banco de dados
 
